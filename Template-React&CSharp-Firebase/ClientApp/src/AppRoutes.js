@@ -1,6 +1,6 @@
 
-import { Dashboard } from "./pages/Dashboard";
-import { Entity1 } from "./pages/Entity1";
+import { Dashboard } from "./Pages/Dashboard";
+import { Entity1 } from "./Pages/Entity1";
 
 const AppRoutes = [
   {
