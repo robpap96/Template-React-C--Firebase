@@ -21,6 +21,7 @@ export class Sidebar
               <NavItem>
                 <NavLink tag={Link} className="text-dark" to="/entity">Entity1</NavLink>
               </NavItem>
+              prova
             </ul>
           </Collapse>
         </Navbar>
