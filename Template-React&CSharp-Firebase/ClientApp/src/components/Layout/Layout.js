@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Container } from 'reactstrap';
-import { NavMenu } from "./NavMenu/NavMenu";
-import { Sidebar } from './Sidebar/Sidebar';
+import { NavMenu } from "./navmenu/NavMenu";
+import { Sidebar } from './sidebar/Sidebar';
 
 
 export class Layout extends Component {
